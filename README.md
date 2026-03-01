@@ -759,7 +759,7 @@ Below are the visual components deployed on the victim's machine during the encr
     <tr>
       <td align="center">
         <strong>Persistent Ransom Interface</strong><br />
-        <img src="Victim/last%20version/mrrobot2.png" width="400" alt="Ransom Interface" /><br />
+        <img src="Victim/last%20version/mrrobot2.webp" width="400" alt="Ransom Interface" /><br />
         <em>(interface_integration.py)</em>
       </td>
       <td align="center">
@@ -878,5 +878,6 @@ This project draws inspiration from the TV series **Mr. Robot**, which portrays 
 **Stay Secure. Stay Ethical. Stay Legal.**
 
 </div>
+
 
 
